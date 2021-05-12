@@ -1,0 +1,75 @@
+
+h1
+{
+    color:rgb(255, 0, 0)
+}
+
+.header{
+background-color: #70f08c;
+display: flex;
+justify-content: space-between;
+
+
+}
+.grid
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+
+  }
+
+ 
+.bodyimg
+{
+    background-color: rgb(12, 183, 250);
+    border-radius: 10px;
+    margin-top:30px;;
+
+}
+
+img
+{
+ border: solid;   
+border-radius: 20px;
+margin-left: 24%;
+margin-top: 10px;
+
+}
+
+.fact
+{
+    font-family: cursive;
+    font-size: 15px;
+    width: 300px;
+}
+
+.menu
+{
+margin-top: 50px;
+font-size: 20px;
+font-family: serif;
+color: rgb(0, 0, 0);
+}
+
+
+
+.parv
+{
+margin-right: 5000px;
+}
+
+.home{
+color: rgb(16, 11, 44);
+
+}
+.follow{
+    margin-right: 5000px;
+}
+body{
+    background-color: #70f08c;
+}
